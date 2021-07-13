@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey, Happy to see you here! I'm Kiran, an enthusiastic Software Engineering open to collaborate with a quality team.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **kiranjolisa/kiranjolisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
