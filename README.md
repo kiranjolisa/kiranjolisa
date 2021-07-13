@@ -30,7 +30,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranjolisa&show_icons=true&count_private=true&theme=gotham" alt="Kiran R" />
  </p>
 
- ## <h3> Always open to discussions revolving around tech and life, feel free to ping me on :</h3>
+ ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
 &ensp; <a href="mailto:kiranjolisa@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
 
