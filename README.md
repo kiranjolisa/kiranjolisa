@@ -2,13 +2,11 @@
 - I'm Kiran, a compassionate Software Developer from India seeking oppurtunities to kickstart a career in Software Engineering.
  
 - I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms from <strong> 
-    [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>.
+    [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
     
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Full+Stack+Web+Developer;1200+Hours+of+Coding;Data+Structures;Alogrithms)](https://git.io/typing-svg)
-    
-    
- ### Always open to discussions revolving around tech and life, Ping me on :
- - <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
+ # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE0F3B&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms)](https://git.io/typing-svg)
+ <h3> Always open to discussions revolving around tech and life, feel free to ping me on :</h3>
+  <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
 &ensp; <a href="mailto:kiranjolisa@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
     
 <!--
