@@ -5,13 +5,13 @@
     [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
     
  <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
 </p>
 
 <h3>Hands On Experience:</h3>
 <br />
+<img align = "right" src= "https://github.com/kiranjolisa/kiranjolisa/blob/main/code.gif?raw=true" width="500" height="300" alt = "Coding" />
 
-<img align = "right" src= "https://github.com/kiranjolisa/kiranjolisa/blob/main/code.gif?raw=true" width="380" height="250"  alt = "Coding Gif" />
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 &emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&emsp;
@@ -28,6 +28,8 @@
 <br>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranjolisa&show_icons=true&count_private=true&theme=gotham" alt="Kiran R" />
+ </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranjolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
  </p>
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
