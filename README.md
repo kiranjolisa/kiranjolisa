@@ -4,8 +4,11 @@
 - I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms from <strong> 
     [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE0F3B&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms)](https://git.io/typing-svg)
- <h3> Always open to discussions revolving around tech and life, feel free to ping me on :</h3>
+ <p align="center">
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+</p>
+
+ ## <h3> Always open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
 &ensp; <a href="mailto:kiranjolisa@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
     
