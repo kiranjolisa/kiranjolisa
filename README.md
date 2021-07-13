@@ -1,7 +1,12 @@
-## Finally, I'm glad that I found you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 🔭 I'm currently seeking oppurtunities to work for a Software Development firm.
+## Finally, I'm glad that you're here! :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- I'm Kiran, a compassionate Software Developer from India seeking oppurtunities to kickstart a career in Software Engineering.
  
- 🌱 I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms.
+- I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms from <strong> 
+    [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>.
+ ### Always open to discussions about topics revolving around tech and life, Ping me on :
+ - <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
+&ensp; <a href="mailto:kiranjolisa@gmail.com" target="blank"><img align="center" src="https://www.pngrepo.com/png/223047/180/gmail.png" alt="Mail to Kiran" height="40" width="40" /></a>
+    
 <!--
 **kiranjolisa/kiranjolisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
