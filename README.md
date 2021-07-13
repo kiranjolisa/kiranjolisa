@@ -1,4 +1,7 @@
-### Hey, Happy to see you here! I'm Kiran, an enthusiastic Software Engineering open to collaborate with a quality team.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Finally, I'm glad that I found you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 🔭 I'm currently seeking oppurtunities to work for a Software Development firm.
+ 
+ 🌱 I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms.
 <!--
 **kiranjolisa/kiranjolisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
