@@ -5,7 +5,7 @@
     [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
     
  <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
 </p>
 
 <h3>Hands On Experience:</h3>
