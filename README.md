@@ -1,5 +1,5 @@
 ## Finally, you're here! :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- I'm Kiran, a compassionate Software Developer from India seeking oppurtunities to kickstart a career in Software Engineering.
+- I'm Kiran, a compassionate Software Developer from India working as an Associate Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>UrbanPiper</a>.
  
 - I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms from <strong> 
     [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
