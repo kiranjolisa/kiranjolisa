@@ -1,5 +1,5 @@
 ## Finally, you're here! :smiley: 
-- I'm Kiran, a compassionate Software Developer from India working as an Associate Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>UrbanPiper</a>.
+- I'm Kiran, a compassionate Software Developer from India working as a Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>UrbanPiper</a>.
  
 - I have recently upskilled myself in Full Stack Web Development and problem solving using Data Structures and Algorithms from <strong> 
     [Masai School](https://www.masaischool.com "Massai School Official Website")</strong>. 
