@@ -27,7 +27,7 @@
 
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kiranjolisa&show_icons=true&count_private=true&theme=gotham" alt="Kiran R" />
+<p align="center"> 
  </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranjolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
  </p>
