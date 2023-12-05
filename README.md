@@ -29,10 +29,6 @@
 
 <br>
 <br>
-<p align="center"> 
- </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranjolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
- </p>
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/kiran-r-6b0124152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kiran's LinkedIn" height="30" width="40" /></a>
@@ -40,7 +36,8 @@
 
 <!--
 **kiranjolisa/kiranjolisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranjolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Kiran R" />
+ </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
